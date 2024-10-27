@@ -46,8 +46,8 @@
     "typeorm": "^0.2.25"
   },
   "devDependencies": {
-    "browserify": "^13.1.1",
-    "snyk": "^1.244.0"
+    "browserify": "^16.5.2",
+    "snyk": "^1.1064.0"
   },
   "license": "Apache-2.0"
 }
