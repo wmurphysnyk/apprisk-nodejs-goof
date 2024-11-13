@@ -1,6 +1,6 @@
 name: Snyk SCA & Code CLI Monitor
 
- on:
+on:
   push:
     branches: [main]
   pull_request:
