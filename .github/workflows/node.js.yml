@@ -1,5 +1,4 @@
 name: Snyk SCA & Code CLI Monitor
-
 on:
   push:
     branches: [main]
