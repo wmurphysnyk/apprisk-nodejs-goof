@@ -39,3 +39,6 @@ jobs:
 
       - name: Snyk Code test
         run: snyk code test || true
+        
+      - name: Snyk IaC test
+        run: snyk iac test || true
